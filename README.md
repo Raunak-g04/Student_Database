@@ -1,6 +1,6 @@
 # Student Management SQL Project
 
-A beginner SQL project using MySQL.
+Project using MySQL.
 
 ## Features
 - Create database
